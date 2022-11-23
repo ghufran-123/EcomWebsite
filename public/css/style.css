@@ -1,0 +1,50 @@
+.sec1bg
+{
+    background-image: url("../img/Sec1BG.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-fluid{
+    padding: 0 7%;
+}
+
+.sec1text{
+    color: black;
+    padding-top: 7%;
+    padding-right: 60%;
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 10%;
+}
+
+.btn-primary{
+    background-color: rgb(93, 199, 221);
+    border: solid rgb(93, 199, 221);
+}
+
+.sec2BG{
+
+    background-image: url("../img/sec2BG.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+hr{
+    width: 100px;
+    border: solid 3px grey;
+}
+
+.sec2text{
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    padding: 0 25%;
+    margin-bottom: 4%;
+}
+.login{
+    width: 400px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid white;
+    padding: 2% 3%;
+    padding-bottom: 4%;
+}
